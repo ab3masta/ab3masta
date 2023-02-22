@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Abdou Abarchi Aboubacar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0D47A1&width=435&lines=Artificial+Intelligence+Engineer;Full+Stack+Flutter+Developer;Nodejs+%7C+Express+%7C+MongoDB;Firebase+%7C+Supabase+%7C+Appwrite)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=F7E400FF&width=435&lines=Artificial+Intelligence+Engineer;Full+Stack+Flutter+Developer;Nodejs+%7C+Express+%7C+MongoDB;Firebase+%7C+Supabase+%7C+Appwrite)](https://git.io/typing-svg)
 
 👨‍💻Ingénieur en Intelligence artificielle passionné 🤖 par le développement d'applications mobiles et web 💻👨‍💼
 

@@ -19,6 +19,7 @@
 ## 💻 More About Me
 
 - 🌏 My Portfolio https://portfolio-e3c04.web.app
+- 🌏 Kaggle profile https://www.kaggle.com/abdouabarchi
 
 ## 🛠  Tech Stack
 
@@ -28,7 +29,3 @@
 
 ![Abdou Abarchi Aboubacar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdouAbarchiAboubacar&show_icons=true&theme=dark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouAbarchiAboubacar&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🧪 Courses & Assignments
-
-[![IBM Courses & Assignments](https://github-readme-stats.vercel.app/api/pin/?username=AbdouAbarchiAboubacar&repo=ibm_courses_assignments&theme=dark)](https://github.com/AbdouAbarchiAboubacar/ibm_courses_assignments)

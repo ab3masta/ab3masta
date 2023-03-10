@@ -5,4 +5,5 @@
 
 # ✨ Templates
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdouAbarchiAboubacar&repo=portfolio_frontend_template&theme=dark)](https://github.com/AbdouAbarchiAboubacar/portfolio_frontend_template)
+[![portfolio frontend template](https://github-readme-stats.vercel.app/api/pin/?username=AbdouAbarchiAboubacar&repo=portfolio_frontend_template&theme=dark)](https://github.com/AbdouAbarchiAboubacar/portfolio_frontend_template)
+[![nodejs express typescript get-started](https://github-readme-stats.vercel.app/api/pin/?username=AbdouAbarchiAboubacar&repo=nodejs_express_typescript_get-started&theme=dark)](https://github.com/AbdouAbarchiAboubacar/nodejs_express_typescript_get-started)

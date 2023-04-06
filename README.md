@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=AbdouAbarchiAboubacar&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbdouAbarchiAboubacar&theme=dark&hide_border=false&count_private=true)](https://git.io/streak-stats)
 
 ![Abdou Abarchi Aboubacar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdouAbarchiAboubacar&show_icons=true&theme=dark&count_private=true)

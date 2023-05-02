@@ -5,7 +5,6 @@
 [![Kaggle](https://img.shields.io/badge/kaggle-03989e?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdouabarchi)
 [![Twitter](https://img.shields.io/twitter/follow/AboubacarAbAb?logo=Twitter&style=for-the-badge)](https://twitter.com/AboubacarAbAb)
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbdouAbarchiAboubacar&theme=dark&hide_border=false&count_private=true)](https://git.io/streak-stats)
 
 ![Abdou Abarchi Aboubacar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdouAbarchiAboubacar&show_icons=true&theme=dark&count_private=true)
